@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-<br>🌱 I’m currently learning<br>Full Stack Web Development (MERN Stack)<br>Machine Learning and Artificial Intelligence<br>
+I am a web developer and machine learning enthusiast currently learning Python and machine learning. I am passionate about creating innovative solutions and I am always looking for ways to improve my skills. I am a creative problem solver and I enjoy working with a team to create user-friendly web applications. I am committed to producing high-quality work and I am eager to learn and grow in the field.
+<br>🌱 I’m currently learning<br>💻 Full Stack Web Development (MERN Stack)<br>Machine Learning and Artificial Intelligence<br>
 
 
 ## 🌐 Socials:
